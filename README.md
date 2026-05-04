@@ -1,15 +1,15 @@
 To-do List: 
 - [x] General structure shell
-- [] Apple Calendar integration
-- [] Google Calendar integration
-- [] Display calendars tasks as the first thing, only display the monthly tasks
-- [] Create a Settings page for authentication and syncing that users can choose to display them
-- [] Start a verification page where the user can
-- [] Add notif mechanism: this notif mechanism should allow the user to adjust how often they want the notification in general, and at default, it would provide you with the reminder of what there are in the user's selected wake of time. 
-- [] Finetune prompt engineering such that it differentiates tasks that requires context
-  - [] if it is an application deadline, make it an event with reminders
-  - [] the application screenshots are all put into the application folder of screenshots, and this is a seperate section - set up a reminder to delete the screenshots once the deadline is over
-  - [] if a date range is provided, add the task to the calendar ONLY if it is an application
-  - [] if the information involves a date or a range of date, then sort it and queue it for the notif database, such that it reminds the users approaching the date, or during the date.
-  - [] if it's information, sort them to respective folders on the app only if it is confident with it
-- [] Adjust the UI
+- [ ] Apple Calendar integration
+- [ ] Google Calendar integration
+- [ ] Display calendars tasks as the first thing, only display the monthly tasks
+- [ ] Create a Settings page for authentication and syncing that users can choose to display them
+- [ ] Start a verification page where the user can
+- [ ] Add notif mechanism: this notif mechanism should allow the user to adjust how often they want the notification in general, and at default, it would provide you with the reminder of what there are in the user's selected wake of time. 
+- [ ] Finetune prompt engineering such that it differentiates tasks that requires context
+  - [ ] if it is an application deadline, make it an event with reminders
+  - [ ] the application screenshots are all put into the application folder of screenshots, and this is a seperate section - set up a reminder to delete the screenshots once the deadline is over
+  - [ ] if a date range is provided, add the task to the calendar ONLY if it is an application
+  - [ ] if the information involves a date or a range of date, then sort it and queue it for the notif database, such that it reminds the users approaching the date, or during the date.
+  - [ ] if it's information, sort them to respective folders on the app only if it is confident with it
+- [ ] Adjust the UI
