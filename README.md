@@ -1,7 +1,7 @@
 To-do List: 
 - [x] General structure shell
 - [ ] Apple Calendar integration
-- [ ] Google Calendar integration
+- [x] Google Calendar integration
 - [ ] Display calendars tasks as the first thing, only display the monthly tasks
 - [ ] Create a Settings page for authentication and syncing that users can choose to display them
 - [ ] Start a verification page where the user can
