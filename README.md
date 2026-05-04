@@ -3,8 +3,8 @@ To-do List:
 - [ ] Apple Calendar integration
 - [x] Google Calendar integration
 - [ ] Display calendars tasks as the first thing, only display the monthly tasks
-- [ ] Create a Settings page for authentication and syncing that users can choose to display them
-- [ ] Start a verification page where the user can
+- [ ] Create a Settings page for authentication and syncing that users can choose to display one or multiple calendars, and choose if they want the app to auto add events and if so in which color/calendar.
+- [ ] Start a verification page where the user can confirm if they would like to add the events to their linked calendar, or choose to default agree
 - [ ] Add notif mechanism: this notif mechanism should allow the user to adjust how often they want the notification in general, and at default, it would provide you with the reminder of what there are in the user's selected wake of time. 
 - [ ] Finetune prompt engineering such that it differentiates tasks that requires context
   - [ ] if it is an application deadline, make it an event with reminders
