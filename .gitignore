@@ -1,0 +1,10 @@
+# Local Firebase and Google OAuth configuration.
+# These files contain project-specific keys/client identifiers and must not be committed.
+Noted/GoogleService-Info.plist
+Noted/client_*.plist
+Noted/AppCheckDebugToken.plist
+
+# macOS/Xcode local files.
+.DS_Store
+*.xcuserstate
+xcuserdata/
